@@ -19,7 +19,7 @@ export class SideMenuComponent {
     ];
 
     public authMenu: MenuItem[] = [
-        { title: 'Registro', route: './auth' }
+        { title: 'Registro', route: './auth/sign-up' }
     ];
 
 }
